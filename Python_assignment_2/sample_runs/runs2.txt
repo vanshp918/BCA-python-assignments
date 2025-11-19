@@ -1,0 +1,16 @@
+Run 2 - Borrowing + Viewing Books
+
+Enter choice: 2
+--- Library Books ---
+Book ID  Title                     Author              Copies
+---------------------------------------------------------------
+B111     Python Programming        John Doe            3
+---------------------------------------------------------------
+
+Enter choice: 4
+--- Borrow Book ---
+Enter Student Name: Vansh
+Enter Book ID: B111
+Vansh borrowed B111 successfully.
+
+Press Enter to continue...
